@@ -1,0 +1,1297 @@
+"year","school","grade","gender","students"
+"2006-2007","Harrisonburg High","09","F",194
+"2006-2007","Harrisonburg High","09","M",235
+"2006-2007","Harrisonburg High","09","",429
+"2006-2007","Harrisonburg High","10","F",166
+"2006-2007","Harrisonburg High","10","M",189
+"2006-2007","Harrisonburg High","10","",355
+"2006-2007","Harrisonburg High","11","F",160
+"2006-2007","Harrisonburg High","11","M",150
+"2006-2007","Harrisonburg High","11","",310
+"2006-2007","Harrisonburg High","12","F",136
+"2006-2007","Harrisonburg High","12","M",151
+"2006-2007","Harrisonburg High","12","",287
+"2006-2007","Harrisonburg High","","F",656
+"2006-2007","Harrisonburg High","","M",725
+"2006-2007","Harrisonburg High","","",1381
+"2006-2007","Keister Elementary","01","F",61
+"2006-2007","Keister Elementary","01","M",51
+"2006-2007","Keister Elementary","01","",112
+"2006-2007","Keister Elementary","02","F",39
+"2006-2007","Keister Elementary","02","M",43
+"2006-2007","Keister Elementary","02","",82
+"2006-2007","Keister Elementary","03","F",36
+"2006-2007","Keister Elementary","03","M",48
+"2006-2007","Keister Elementary","03","",84
+"2006-2007","Keister Elementary","04","F",40
+"2006-2007","Keister Elementary","04","M",39
+"2006-2007","Keister Elementary","04","",79
+"2006-2007","Keister Elementary","05","F",31
+"2006-2007","Keister Elementary","05","M",54
+"2006-2007","Keister Elementary","05","",85
+"2006-2007","Keister Elementary","KG","F",35
+"2006-2007","Keister Elementary","KG","M",49
+"2006-2007","Keister Elementary","KG","",84
+"2006-2007","Keister Elementary","","F",242
+"2006-2007","Keister Elementary","","M",284
+"2006-2007","Keister Elementary","","",526
+"2006-2007","Spotswood Elementary","01","F",41
+"2006-2007","Spotswood Elementary","01","M",34
+"2006-2007","Spotswood Elementary","01","",75
+"2006-2007","Spotswood Elementary","02","F",43
+"2006-2007","Spotswood Elementary","02","M",32
+"2006-2007","Spotswood Elementary","02","",75
+"2006-2007","Spotswood Elementary","03","F",48
+"2006-2007","Spotswood Elementary","03","M",34
+"2006-2007","Spotswood Elementary","03","",82
+"2006-2007","Spotswood Elementary","04","F",39
+"2006-2007","Spotswood Elementary","04","M",30
+"2006-2007","Spotswood Elementary","04","",69
+"2006-2007","Spotswood Elementary","05","F",31
+"2006-2007","Spotswood Elementary","05","M",40
+"2006-2007","Spotswood Elementary","05","",71
+"2006-2007","Spotswood Elementary","KG","F",40
+"2006-2007","Spotswood Elementary","KG","M",43
+"2006-2007","Spotswood Elementary","KG","",83
+"2006-2007","Spotswood Elementary","","F",242
+"2006-2007","Spotswood Elementary","","M",213
+"2006-2007","Spotswood Elementary","","",455
+"2006-2007","Stone Spring Elementary","01","F",45
+"2006-2007","Stone Spring Elementary","01","M",63
+"2006-2007","Stone Spring Elementary","01","",108
+"2006-2007","Stone Spring Elementary","02","F",48
+"2006-2007","Stone Spring Elementary","02","M",49
+"2006-2007","Stone Spring Elementary","02","",97
+"2006-2007","Stone Spring Elementary","03","F",42
+"2006-2007","Stone Spring Elementary","03","M",53
+"2006-2007","Stone Spring Elementary","03","",95
+"2006-2007","Stone Spring Elementary","04","F",55
+"2006-2007","Stone Spring Elementary","04","M",40
+"2006-2007","Stone Spring Elementary","04","",95
+"2006-2007","Stone Spring Elementary","05","F",55
+"2006-2007","Stone Spring Elementary","05","M",42
+"2006-2007","Stone Spring Elementary","05","",97
+"2006-2007","Stone Spring Elementary","KG","F",42
+"2006-2007","Stone Spring Elementary","KG","M",51
+"2006-2007","Stone Spring Elementary","KG","",93
+"2006-2007","Stone Spring Elementary","","F",287
+"2006-2007","Stone Spring Elementary","","M",298
+"2006-2007","Stone Spring Elementary","","",585
+"2006-2007","Thomas Harrison Middle","06","F",160
+"2006-2007","Thomas Harrison Middle","06","M",160
+"2006-2007","Thomas Harrison Middle","06","",320
+"2006-2007","Thomas Harrison Middle","07","F",140
+"2006-2007","Thomas Harrison Middle","07","M",146
+"2006-2007","Thomas Harrison Middle","07","",286
+"2006-2007","Thomas Harrison Middle","08","F",153
+"2006-2007","Thomas Harrison Middle","08","M",156
+"2006-2007","Thomas Harrison Middle","08","",309
+"2006-2007","Thomas Harrison Middle","","F",453
+"2006-2007","Thomas Harrison Middle","","M",462
+"2006-2007","Thomas Harrison Middle","","",915
+"2006-2007","Waterman Elementary","01","F",53
+"2006-2007","Waterman Elementary","01","M",50
+"2006-2007","Waterman Elementary","01","",103
+"2006-2007","Waterman Elementary","02","F",44
+"2006-2007","Waterman Elementary","02","M",59
+"2006-2007","Waterman Elementary","02","",103
+"2006-2007","Waterman Elementary","03","F",35
+"2006-2007","Waterman Elementary","03","M",40
+"2006-2007","Waterman Elementary","03","",75
+"2006-2007","Waterman Elementary","04","F",45
+"2006-2007","Waterman Elementary","04","M",37
+"2006-2007","Waterman Elementary","04","",82
+"2006-2007","Waterman Elementary","05","F",50
+"2006-2007","Waterman Elementary","05","M",28
+"2006-2007","Waterman Elementary","05","",78
+"2006-2007","Waterman Elementary","KG","F",53
+"2006-2007","Waterman Elementary","KG","M",60
+"2006-2007","Waterman Elementary","KG","",113
+"2006-2007","Waterman Elementary","","F",280
+"2006-2007","Waterman Elementary","","M",274
+"2006-2007","Waterman Elementary","","",554
+"2006-2007","","01","F",200
+"2006-2007","","01","M",198
+"2006-2007","","01","",398
+"2006-2007","","02","F",174
+"2006-2007","","02","M",183
+"2006-2007","","02","",357
+"2006-2007","","03","F",161
+"2006-2007","","03","M",175
+"2006-2007","","03","",336
+"2006-2007","","04","F",179
+"2006-2007","","04","M",146
+"2006-2007","","04","",325
+"2006-2007","","05","F",167
+"2006-2007","","05","M",164
+"2006-2007","","05","",331
+"2006-2007","","06","F",160
+"2006-2007","","06","M",160
+"2006-2007","","06","",320
+"2006-2007","","07","F",140
+"2006-2007","","07","M",146
+"2006-2007","","07","",286
+"2006-2007","","08","F",153
+"2006-2007","","08","M",156
+"2006-2007","","08","",309
+"2006-2007","","09","F",194
+"2006-2007","","09","M",235
+"2006-2007","","09","",429
+"2006-2007","","10","F",166
+"2006-2007","","10","M",189
+"2006-2007","","10","",355
+"2006-2007","","11","F",160
+"2006-2007","","11","M",150
+"2006-2007","","11","",310
+"2006-2007","","12","F",136
+"2006-2007","","12","M",151
+"2006-2007","","12","",287
+"2006-2007","","KG","F",170
+"2006-2007","","KG","M",203
+"2006-2007","","KG","",373
+"2006-2007","","","F",2160
+"2006-2007","","","M",2256
+"2006-2007","","","",4416
+"2007-2008","Harrisonburg High","09","F",180
+"2007-2008","Harrisonburg High","09","M",186
+"2007-2008","Harrisonburg High","09","",366
+"2007-2008","Harrisonburg High","10","F",156
+"2007-2008","Harrisonburg High","10","M",188
+"2007-2008","Harrisonburg High","10","",344
+"2007-2008","Harrisonburg High","11","F",140
+"2007-2008","Harrisonburg High","11","M",178
+"2007-2008","Harrisonburg High","11","",318
+"2007-2008","Harrisonburg High","12","F",159
+"2007-2008","Harrisonburg High","12","M",148
+"2007-2008","Harrisonburg High","12","",307
+"2007-2008","Harrisonburg High","","F",635
+"2007-2008","Harrisonburg High","","M",700
+"2007-2008","Harrisonburg High","","",1335
+"2007-2008","Keister Elementary","01","F",37
+"2007-2008","Keister Elementary","01","M",46
+"2007-2008","Keister Elementary","01","",83
+"2007-2008","Keister Elementary","02","F",46
+"2007-2008","Keister Elementary","02","M",39
+"2007-2008","Keister Elementary","02","",85
+"2007-2008","Keister Elementary","03","F",34
+"2007-2008","Keister Elementary","03","M",41
+"2007-2008","Keister Elementary","03","",75
+"2007-2008","Keister Elementary","04","F",29
+"2007-2008","Keister Elementary","04","M",48
+"2007-2008","Keister Elementary","04","",77
+"2007-2008","Keister Elementary","05","F",43
+"2007-2008","Keister Elementary","05","M",42
+"2007-2008","Keister Elementary","05","",85
+"2007-2008","Keister Elementary","KG","F",41
+"2007-2008","Keister Elementary","KG","M",44
+"2007-2008","Keister Elementary","KG","",85
+"2007-2008","Keister Elementary","PK","F",12
+"2007-2008","Keister Elementary","PK","M",27
+"2007-2008","Keister Elementary","PK","",39
+"2007-2008","Keister Elementary","","F",242
+"2007-2008","Keister Elementary","","M",287
+"2007-2008","Keister Elementary","","",529
+"2007-2008","Spotswood Elementary","01","F",37
+"2007-2008","Spotswood Elementary","01","M",39
+"2007-2008","Spotswood Elementary","01","",76
+"2007-2008","Spotswood Elementary","02","F",41
+"2007-2008","Spotswood Elementary","02","M",36
+"2007-2008","Spotswood Elementary","02","",77
+"2007-2008","Spotswood Elementary","03","F",38
+"2007-2008","Spotswood Elementary","03","M",34
+"2007-2008","Spotswood Elementary","03","",72
+"2007-2008","Spotswood Elementary","04","F",39
+"2007-2008","Spotswood Elementary","04","M",30
+"2007-2008","Spotswood Elementary","04","",69
+"2007-2008","Spotswood Elementary","05","F",39
+"2007-2008","Spotswood Elementary","05","M",32
+"2007-2008","Spotswood Elementary","05","",71
+"2007-2008","Spotswood Elementary","KG","F",52
+"2007-2008","Spotswood Elementary","KG","M",50
+"2007-2008","Spotswood Elementary","KG","",102
+"2007-2008","Spotswood Elementary","PK","F",19
+"2007-2008","Spotswood Elementary","PK","M",24
+"2007-2008","Spotswood Elementary","PK","",43
+"2007-2008","Spotswood Elementary","","F",265
+"2007-2008","Spotswood Elementary","","M",245
+"2007-2008","Spotswood Elementary","","",510
+"2007-2008","Stone Spring Elementary","01","F",46
+"2007-2008","Stone Spring Elementary","01","M",56
+"2007-2008","Stone Spring Elementary","01","",102
+"2007-2008","Stone Spring Elementary","02","F",48
+"2007-2008","Stone Spring Elementary","02","M",56
+"2007-2008","Stone Spring Elementary","02","",104
+"2007-2008","Stone Spring Elementary","03","F",36
+"2007-2008","Stone Spring Elementary","03","M",45
+"2007-2008","Stone Spring Elementary","03","",81
+"2007-2008","Stone Spring Elementary","04","F",44
+"2007-2008","Stone Spring Elementary","04","M",52
+"2007-2008","Stone Spring Elementary","04","",96
+"2007-2008","Stone Spring Elementary","05","F",53
+"2007-2008","Stone Spring Elementary","05","M",44
+"2007-2008","Stone Spring Elementary","05","",97
+"2007-2008","Stone Spring Elementary","KG","F",57
+"2007-2008","Stone Spring Elementary","KG","M",45
+"2007-2008","Stone Spring Elementary","KG","",102
+"2007-2008","Stone Spring Elementary","PK","F",22
+"2007-2008","Stone Spring Elementary","PK","M",20
+"2007-2008","Stone Spring Elementary","PK","",42
+"2007-2008","Stone Spring Elementary","","F",306
+"2007-2008","Stone Spring Elementary","","M",318
+"2007-2008","Stone Spring Elementary","","",624
+"2007-2008","Thomas Harrison Middle","06","F",172
+"2007-2008","Thomas Harrison Middle","06","M",164
+"2007-2008","Thomas Harrison Middle","06","",336
+"2007-2008","Thomas Harrison Middle","07","F",150
+"2007-2008","Thomas Harrison Middle","07","M",160
+"2007-2008","Thomas Harrison Middle","07","",310
+"2007-2008","Thomas Harrison Middle","08","F",132
+"2007-2008","Thomas Harrison Middle","08","M",160
+"2007-2008","Thomas Harrison Middle","08","",292
+"2007-2008","Thomas Harrison Middle","","F",454
+"2007-2008","Thomas Harrison Middle","","M",484
+"2007-2008","Thomas Harrison Middle","","",938
+"2007-2008","Waterman Elementary","01","F",53
+"2007-2008","Waterman Elementary","01","M",52
+"2007-2008","Waterman Elementary","01","",105
+"2007-2008","Waterman Elementary","02","F",53
+"2007-2008","Waterman Elementary","02","M",42
+"2007-2008","Waterman Elementary","02","",95
+"2007-2008","Waterman Elementary","03","F",46
+"2007-2008","Waterman Elementary","03","M",66
+"2007-2008","Waterman Elementary","03","",112
+"2007-2008","Waterman Elementary","04","F",34
+"2007-2008","Waterman Elementary","04","M",39
+"2007-2008","Waterman Elementary","04","",73
+"2007-2008","Waterman Elementary","05","F",42
+"2007-2008","Waterman Elementary","05","M",31
+"2007-2008","Waterman Elementary","05","",73
+"2007-2008","Waterman Elementary","KG","F",48
+"2007-2008","Waterman Elementary","KG","M",54
+"2007-2008","Waterman Elementary","KG","",102
+"2007-2008","Waterman Elementary","PK","F",21
+"2007-2008","Waterman Elementary","PK","M",11
+"2007-2008","Waterman Elementary","PK","",32
+"2007-2008","Waterman Elementary","","F",297
+"2007-2008","Waterman Elementary","","M",295
+"2007-2008","Waterman Elementary","","",592
+"2007-2008","","01","F",173
+"2007-2008","","01","M",193
+"2007-2008","","01","",366
+"2007-2008","","02","F",188
+"2007-2008","","02","M",173
+"2007-2008","","02","",361
+"2007-2008","","03","F",154
+"2007-2008","","03","M",186
+"2007-2008","","03","",340
+"2007-2008","","04","F",146
+"2007-2008","","04","M",169
+"2007-2008","","04","",315
+"2007-2008","","05","F",177
+"2007-2008","","05","M",149
+"2007-2008","","05","",326
+"2007-2008","","06","F",172
+"2007-2008","","06","M",164
+"2007-2008","","06","",336
+"2007-2008","","07","F",150
+"2007-2008","","07","M",160
+"2007-2008","","07","",310
+"2007-2008","","08","F",132
+"2007-2008","","08","M",160
+"2007-2008","","08","",292
+"2007-2008","","09","F",180
+"2007-2008","","09","M",186
+"2007-2008","","09","",366
+"2007-2008","","10","F",156
+"2007-2008","","10","M",188
+"2007-2008","","10","",344
+"2007-2008","","11","F",140
+"2007-2008","","11","M",178
+"2007-2008","","11","",318
+"2007-2008","","12","F",159
+"2007-2008","","12","M",148
+"2007-2008","","12","",307
+"2007-2008","","KG","F",198
+"2007-2008","","KG","M",193
+"2007-2008","","KG","",391
+"2007-2008","","PK","F",74
+"2007-2008","","PK","M",82
+"2007-2008","","PK","",156
+"2007-2008","","","F",2199
+"2007-2008","","","M",2329
+"2007-2008","","","",4528
+"2008-2009","Harrisonburg High","09","F",140
+"2008-2009","Harrisonburg High","09","M",184
+"2008-2009","Harrisonburg High","09","",324
+"2008-2009","Harrisonburg High","10","F",160
+"2008-2009","Harrisonburg High","10","M",171
+"2008-2009","Harrisonburg High","10","",331
+"2008-2009","Harrisonburg High","11","F",156
+"2008-2009","Harrisonburg High","11","M",182
+"2008-2009","Harrisonburg High","11","",338
+"2008-2009","Harrisonburg High","12","F",146
+"2008-2009","Harrisonburg High","12","M",151
+"2008-2009","Harrisonburg High","12","",297
+"2008-2009","Harrisonburg High","","F",602
+"2008-2009","Harrisonburg High","","M",688
+"2008-2009","Harrisonburg High","","",1290
+"2008-2009","Keister Elementary","01","F",35
+"2008-2009","Keister Elementary","01","M",44
+"2008-2009","Keister Elementary","01","",79
+"2008-2009","Keister Elementary","02","F",43
+"2008-2009","Keister Elementary","02","M",34
+"2008-2009","Keister Elementary","02","",77
+"2008-2009","Keister Elementary","03","F",43
+"2008-2009","Keister Elementary","03","M",37
+"2008-2009","Keister Elementary","03","",80
+"2008-2009","Keister Elementary","04","F",26
+"2008-2009","Keister Elementary","04","M",41
+"2008-2009","Keister Elementary","04","",67
+"2008-2009","Keister Elementary","KG","F",41
+"2008-2009","Keister Elementary","KG","M",49
+"2008-2009","Keister Elementary","KG","",90
+"2008-2009","Keister Elementary","PK","F",20
+"2008-2009","Keister Elementary","PK","M",19
+"2008-2009","Keister Elementary","PK","",39
+"2008-2009","Keister Elementary","","F",208
+"2008-2009","Keister Elementary","","M",224
+"2008-2009","Keister Elementary","","",432
+"2008-2009","Skyline Middle School","05","F",64
+"2008-2009","Skyline Middle School","05","M",60
+"2008-2009","Skyline Middle School","05","",124
+"2008-2009","Skyline Middle School","06","F",75
+"2008-2009","Skyline Middle School","06","M",59
+"2008-2009","Skyline Middle School","06","",134
+"2008-2009","Skyline Middle School","07","F",69
+"2008-2009","Skyline Middle School","07","M",65
+"2008-2009","Skyline Middle School","07","",134
+"2008-2009","Skyline Middle School","08","F",61
+"2008-2009","Skyline Middle School","08","M",46
+"2008-2009","Skyline Middle School","08","",107
+"2008-2009","Skyline Middle School","","F",269
+"2008-2009","Skyline Middle School","","M",230
+"2008-2009","Skyline Middle School","","",499
+"2008-2009","Smithland Elementary School","01","F",40
+"2008-2009","Smithland Elementary School","01","M",46
+"2008-2009","Smithland Elementary School","01","",86
+"2008-2009","Smithland Elementary School","02","F",37
+"2008-2009","Smithland Elementary School","02","M",33
+"2008-2009","Smithland Elementary School","02","",70
+"2008-2009","Smithland Elementary School","03","F",35
+"2008-2009","Smithland Elementary School","03","M",41
+"2008-2009","Smithland Elementary School","03","",76
+"2008-2009","Smithland Elementary School","04","F",35
+"2008-2009","Smithland Elementary School","04","M",42
+"2008-2009","Smithland Elementary School","04","",77
+"2008-2009","Smithland Elementary School","KG","F",35
+"2008-2009","Smithland Elementary School","KG","M",55
+"2008-2009","Smithland Elementary School","KG","",90
+"2008-2009","Smithland Elementary School","PK","F",15
+"2008-2009","Smithland Elementary School","PK","M",20
+"2008-2009","Smithland Elementary School","PK","",35
+"2008-2009","Smithland Elementary School","","F",197
+"2008-2009","Smithland Elementary School","","M",237
+"2008-2009","Smithland Elementary School","","",434
+"2008-2009","Spotswood Elementary","01","F",37
+"2008-2009","Spotswood Elementary","01","M",46
+"2008-2009","Spotswood Elementary","01","",83
+"2008-2009","Spotswood Elementary","02","F",29
+"2008-2009","Spotswood Elementary","02","M",34
+"2008-2009","Spotswood Elementary","02","",63
+"2008-2009","Spotswood Elementary","03","F",31
+"2008-2009","Spotswood Elementary","03","M",26
+"2008-2009","Spotswood Elementary","03","",57
+"2008-2009","Spotswood Elementary","04","F",31
+"2008-2009","Spotswood Elementary","04","M",30
+"2008-2009","Spotswood Elementary","04","",61
+"2008-2009","Spotswood Elementary","KG","F",37
+"2008-2009","Spotswood Elementary","KG","M",36
+"2008-2009","Spotswood Elementary","KG","",73
+"2008-2009","Spotswood Elementary","PK","F",19
+"2008-2009","Spotswood Elementary","PK","M",20
+"2008-2009","Spotswood Elementary","PK","",39
+"2008-2009","Spotswood Elementary","","F",184
+"2008-2009","Spotswood Elementary","","M",192
+"2008-2009","Spotswood Elementary","","",376
+"2008-2009","Stone Spring Elementary","01","F",44
+"2008-2009","Stone Spring Elementary","01","M",26
+"2008-2009","Stone Spring Elementary","01","",70
+"2008-2009","Stone Spring Elementary","02","F",24
+"2008-2009","Stone Spring Elementary","02","M",37
+"2008-2009","Stone Spring Elementary","02","",61
+"2008-2009","Stone Spring Elementary","03","F",32
+"2008-2009","Stone Spring Elementary","03","M",31
+"2008-2009","Stone Spring Elementary","03","",63
+"2008-2009","Stone Spring Elementary","04","F",28
+"2008-2009","Stone Spring Elementary","04","M",25
+"2008-2009","Stone Spring Elementary","04","",53
+"2008-2009","Stone Spring Elementary","KG","F",34
+"2008-2009","Stone Spring Elementary","KG","M",40
+"2008-2009","Stone Spring Elementary","KG","",74
+"2008-2009","Stone Spring Elementary","PK","F",14
+"2008-2009","Stone Spring Elementary","PK","M",22
+"2008-2009","Stone Spring Elementary","PK","",36
+"2008-2009","Stone Spring Elementary","","F",176
+"2008-2009","Stone Spring Elementary","","M",181
+"2008-2009","Stone Spring Elementary","","",357
+"2008-2009","Thomas Harrison Middle","05","F",80
+"2008-2009","Thomas Harrison Middle","05","M",95
+"2008-2009","Thomas Harrison Middle","05","",175
+"2008-2009","Thomas Harrison Middle","06","F",100
+"2008-2009","Thomas Harrison Middle","06","M",78
+"2008-2009","Thomas Harrison Middle","06","",178
+"2008-2009","Thomas Harrison Middle","07","F",99
+"2008-2009","Thomas Harrison Middle","07","M",92
+"2008-2009","Thomas Harrison Middle","07","",191
+"2008-2009","Thomas Harrison Middle","08","F",89
+"2008-2009","Thomas Harrison Middle","08","M",117
+"2008-2009","Thomas Harrison Middle","08","",206
+"2008-2009","Thomas Harrison Middle","","F",368
+"2008-2009","Thomas Harrison Middle","","M",382
+"2008-2009","Thomas Harrison Middle","","",750
+"2008-2009","Waterman Elementary","01","F",36
+"2008-2009","Waterman Elementary","01","M",31
+"2008-2009","Waterman Elementary","01","",67
+"2008-2009","Waterman Elementary","02","F",36
+"2008-2009","Waterman Elementary","02","M",44
+"2008-2009","Waterman Elementary","02","",80
+"2008-2009","Waterman Elementary","03","F",41
+"2008-2009","Waterman Elementary","03","M",31
+"2008-2009","Waterman Elementary","03","",72
+"2008-2009","Waterman Elementary","04","F",29
+"2008-2009","Waterman Elementary","04","M",44
+"2008-2009","Waterman Elementary","04","",73
+"2008-2009","Waterman Elementary","KG","F",31
+"2008-2009","Waterman Elementary","KG","M",25
+"2008-2009","Waterman Elementary","KG","",56
+"2008-2009","Waterman Elementary","PK","F",16
+"2008-2009","Waterman Elementary","PK","M",21
+"2008-2009","Waterman Elementary","PK","",37
+"2008-2009","Waterman Elementary","","F",189
+"2008-2009","Waterman Elementary","","M",196
+"2008-2009","Waterman Elementary","","",385
+"2008-2009","","01","F",192
+"2008-2009","","01","M",193
+"2008-2009","","01","",385
+"2008-2009","","02","F",169
+"2008-2009","","02","M",182
+"2008-2009","","02","",351
+"2008-2009","","03","F",182
+"2008-2009","","03","M",166
+"2008-2009","","03","",348
+"2008-2009","","04","F",149
+"2008-2009","","04","M",182
+"2008-2009","","04","",331
+"2008-2009","","05","F",144
+"2008-2009","","05","M",155
+"2008-2009","","05","",299
+"2008-2009","","06","F",175
+"2008-2009","","06","M",137
+"2008-2009","","06","",312
+"2008-2009","","07","F",168
+"2008-2009","","07","M",157
+"2008-2009","","07","",325
+"2008-2009","","08","F",150
+"2008-2009","","08","M",163
+"2008-2009","","08","",313
+"2008-2009","","09","F",140
+"2008-2009","","09","M",184
+"2008-2009","","09","",324
+"2008-2009","","10","F",160
+"2008-2009","","10","M",171
+"2008-2009","","10","",331
+"2008-2009","","11","F",156
+"2008-2009","","11","M",182
+"2008-2009","","11","",338
+"2008-2009","","12","F",146
+"2008-2009","","12","M",151
+"2008-2009","","12","",297
+"2008-2009","","KG","F",178
+"2008-2009","","KG","M",205
+"2008-2009","","KG","",383
+"2008-2009","","PK","F",84
+"2008-2009","","PK","M",102
+"2008-2009","","PK","",186
+"2008-2009","","","F",2193
+"2008-2009","","","M",2330
+"2008-2009","","","",4523
+"2009-2010","Harrisonburg High","09","F",170
+"2009-2010","Harrisonburg High","09","M",185
+"2009-2010","Harrisonburg High","09","",355
+"2009-2010","Harrisonburg High","10","F",134
+"2009-2010","Harrisonburg High","10","M",165
+"2009-2010","Harrisonburg High","10","",299
+"2009-2010","Harrisonburg High","11","F",145
+"2009-2010","Harrisonburg High","11","M",158
+"2009-2010","Harrisonburg High","11","",303
+"2009-2010","Harrisonburg High","12","F",156
+"2009-2010","Harrisonburg High","12","M",163
+"2009-2010","Harrisonburg High","12","",319
+"2009-2010","Harrisonburg High","","F",605
+"2009-2010","Harrisonburg High","","M",671
+"2009-2010","Harrisonburg High","","",1276
+"2009-2010","Keister Elementary","01","F",47
+"2009-2010","Keister Elementary","01","M",45
+"2009-2010","Keister Elementary","01","",92
+"2009-2010","Keister Elementary","02","F",38
+"2009-2010","Keister Elementary","02","M",43
+"2009-2010","Keister Elementary","02","",81
+"2009-2010","Keister Elementary","03","F",39
+"2009-2010","Keister Elementary","03","M",37
+"2009-2010","Keister Elementary","03","",76
+"2009-2010","Keister Elementary","04","F",42
+"2009-2010","Keister Elementary","04","M",39
+"2009-2010","Keister Elementary","04","",81
+"2009-2010","Keister Elementary","KG","F",52
+"2009-2010","Keister Elementary","KG","M",56
+"2009-2010","Keister Elementary","KG","",108
+"2009-2010","Keister Elementary","PK","F",20
+"2009-2010","Keister Elementary","PK","M",18
+"2009-2010","Keister Elementary","PK","",38
+"2009-2010","Keister Elementary","","F",238
+"2009-2010","Keister Elementary","","M",238
+"2009-2010","Keister Elementary","","",476
+"2009-2010","Skyline Middle","05","F",64
+"2009-2010","Skyline Middle","05","M",68
+"2009-2010","Skyline Middle","05","",132
+"2009-2010","Skyline Middle","06","F",61
+"2009-2010","Skyline Middle","06","M",61
+"2009-2010","Skyline Middle","06","",122
+"2009-2010","Skyline Middle","07","F",79
+"2009-2010","Skyline Middle","07","M",54
+"2009-2010","Skyline Middle","07","",133
+"2009-2010","Skyline Middle","08","F",64
+"2009-2010","Skyline Middle","08","M",63
+"2009-2010","Skyline Middle","08","",127
+"2009-2010","Skyline Middle","","F",268
+"2009-2010","Skyline Middle","","M",246
+"2009-2010","Skyline Middle","","",514
+"2009-2010","Smithland Elementary","01","F",30
+"2009-2010","Smithland Elementary","01","M",45
+"2009-2010","Smithland Elementary","01","",75
+"2009-2010","Smithland Elementary","02","F",36
+"2009-2010","Smithland Elementary","02","M",39
+"2009-2010","Smithland Elementary","02","",75
+"2009-2010","Smithland Elementary","03","F",41
+"2009-2010","Smithland Elementary","03","M",31
+"2009-2010","Smithland Elementary","03","",72
+"2009-2010","Smithland Elementary","04","F",40
+"2009-2010","Smithland Elementary","04","M",39
+"2009-2010","Smithland Elementary","04","",79
+"2009-2010","Smithland Elementary","KG","F",35
+"2009-2010","Smithland Elementary","KG","M",44
+"2009-2010","Smithland Elementary","KG","",79
+"2009-2010","Smithland Elementary","PK","F",16
+"2009-2010","Smithland Elementary","PK","M",19
+"2009-2010","Smithland Elementary","PK","",35
+"2009-2010","Smithland Elementary","","F",198
+"2009-2010","Smithland Elementary","","M",217
+"2009-2010","Smithland Elementary","","",415
+"2009-2010","Spotswood Elementary","01","F",34
+"2009-2010","Spotswood Elementary","01","M",35
+"2009-2010","Spotswood Elementary","01","",69
+"2009-2010","Spotswood Elementary","02","F",38
+"2009-2010","Spotswood Elementary","02","M",45
+"2009-2010","Spotswood Elementary","02","",83
+"2009-2010","Spotswood Elementary","03","F",30
+"2009-2010","Spotswood Elementary","03","M",39
+"2009-2010","Spotswood Elementary","03","",69
+"2009-2010","Spotswood Elementary","04","F",28
+"2009-2010","Spotswood Elementary","04","M",31
+"2009-2010","Spotswood Elementary","04","",59
+"2009-2010","Spotswood Elementary","KG","F",37
+"2009-2010","Spotswood Elementary","KG","M",42
+"2009-2010","Spotswood Elementary","KG","",79
+"2009-2010","Spotswood Elementary","PK","F",14
+"2009-2010","Spotswood Elementary","PK","M",23
+"2009-2010","Spotswood Elementary","PK","",37
+"2009-2010","Spotswood Elementary","","F",181
+"2009-2010","Spotswood Elementary","","M",215
+"2009-2010","Spotswood Elementary","","",396
+"2009-2010","Stone Spring Elementary","01","F",27
+"2009-2010","Stone Spring Elementary","01","M",37
+"2009-2010","Stone Spring Elementary","01","",64
+"2009-2010","Stone Spring Elementary","02","F",33
+"2009-2010","Stone Spring Elementary","02","M",33
+"2009-2010","Stone Spring Elementary","02","",66
+"2009-2010","Stone Spring Elementary","03","F",26
+"2009-2010","Stone Spring Elementary","03","M",33
+"2009-2010","Stone Spring Elementary","03","",59
+"2009-2010","Stone Spring Elementary","04","F",25
+"2009-2010","Stone Spring Elementary","04","M",29
+"2009-2010","Stone Spring Elementary","04","",54
+"2009-2010","Stone Spring Elementary","KG","F",29
+"2009-2010","Stone Spring Elementary","KG","M",42
+"2009-2010","Stone Spring Elementary","KG","",71
+"2009-2010","Stone Spring Elementary","PK","F",20
+"2009-2010","Stone Spring Elementary","PK","M",15
+"2009-2010","Stone Spring Elementary","PK","",35
+"2009-2010","Stone Spring Elementary","","F",160
+"2009-2010","Stone Spring Elementary","","M",189
+"2009-2010","Stone Spring Elementary","","",349
+"2009-2010","Thomas Harrison Middle","05","F",85
+"2009-2010","Thomas Harrison Middle","05","M",111
+"2009-2010","Thomas Harrison Middle","05","",196
+"2009-2010","Thomas Harrison Middle","06","F",83
+"2009-2010","Thomas Harrison Middle","06","M",97
+"2009-2010","Thomas Harrison Middle","06","",180
+"2009-2010","Thomas Harrison Middle","07","F",100
+"2009-2010","Thomas Harrison Middle","07","M",78
+"2009-2010","Thomas Harrison Middle","07","",178
+"2009-2010","Thomas Harrison Middle","08","F",95
+"2009-2010","Thomas Harrison Middle","08","M",94
+"2009-2010","Thomas Harrison Middle","08","",189
+"2009-2010","Thomas Harrison Middle","","F",363
+"2009-2010","Thomas Harrison Middle","","M",380
+"2009-2010","Thomas Harrison Middle","","",743
+"2009-2010","Waterman Elementary","01","F",43
+"2009-2010","Waterman Elementary","01","M",25
+"2009-2010","Waterman Elementary","01","",68
+"2009-2010","Waterman Elementary","02","F",45
+"2009-2010","Waterman Elementary","02","M",33
+"2009-2010","Waterman Elementary","02","",78
+"2009-2010","Waterman Elementary","03","F",35
+"2009-2010","Waterman Elementary","03","M",42
+"2009-2010","Waterman Elementary","03","",77
+"2009-2010","Waterman Elementary","04","F",42
+"2009-2010","Waterman Elementary","04","M",32
+"2009-2010","Waterman Elementary","04","",74
+"2009-2010","Waterman Elementary","KG","F",43
+"2009-2010","Waterman Elementary","KG","M",48
+"2009-2010","Waterman Elementary","KG","",91
+"2009-2010","Waterman Elementary","PK","F",18
+"2009-2010","Waterman Elementary","PK","M",19
+"2009-2010","Waterman Elementary","PK","",37
+"2009-2010","Waterman Elementary","","F",226
+"2009-2010","Waterman Elementary","","M",199
+"2009-2010","Waterman Elementary","","",425
+"2009-2010","","01","F",181
+"2009-2010","","01","M",187
+"2009-2010","","01","",368
+"2009-2010","","02","F",190
+"2009-2010","","02","M",193
+"2009-2010","","02","",383
+"2009-2010","","03","F",171
+"2009-2010","","03","M",182
+"2009-2010","","03","",353
+"2009-2010","","04","F",177
+"2009-2010","","04","M",170
+"2009-2010","","04","",347
+"2009-2010","","05","F",149
+"2009-2010","","05","M",179
+"2009-2010","","05","",328
+"2009-2010","","06","F",144
+"2009-2010","","06","M",158
+"2009-2010","","06","",302
+"2009-2010","","07","F",179
+"2009-2010","","07","M",132
+"2009-2010","","07","",311
+"2009-2010","","08","F",159
+"2009-2010","","08","M",157
+"2009-2010","","08","",316
+"2009-2010","","09","F",170
+"2009-2010","","09","M",185
+"2009-2010","","09","",355
+"2009-2010","","10","F",134
+"2009-2010","","10","M",165
+"2009-2010","","10","",299
+"2009-2010","","11","F",145
+"2009-2010","","11","M",158
+"2009-2010","","11","",303
+"2009-2010","","12","F",156
+"2009-2010","","12","M",163
+"2009-2010","","12","",319
+"2009-2010","","KG","F",196
+"2009-2010","","KG","M",232
+"2009-2010","","KG","",428
+"2009-2010","","PK","F",88
+"2009-2010","","PK","M",94
+"2009-2010","","PK","",182
+"2009-2010","","","F",2239
+"2009-2010","","","M",2355
+"2009-2010","","","",4594
+"2010-2011","Harrisonburg High","09","F",179
+"2010-2011","Harrisonburg High","09","M",209
+"2010-2011","Harrisonburg High","09","",388
+"2010-2011","Harrisonburg High","10","F",175
+"2010-2011","Harrisonburg High","10","M",176
+"2010-2011","Harrisonburg High","10","",351
+"2010-2011","Harrisonburg High","11","F",136
+"2010-2011","Harrisonburg High","11","M",160
+"2010-2011","Harrisonburg High","11","",296
+"2010-2011","Harrisonburg High","12","F",142
+"2010-2011","Harrisonburg High","12","M",151
+"2010-2011","Harrisonburg High","12","",293
+"2010-2011","Harrisonburg High","","F",632
+"2010-2011","Harrisonburg High","","M",696
+"2010-2011","Harrisonburg High","","",1328
+"2010-2011","Keister Elementary","01","F",49
+"2010-2011","Keister Elementary","01","M",59
+"2010-2011","Keister Elementary","01","",108
+"2010-2011","Keister Elementary","02","F",48
+"2010-2011","Keister Elementary","02","M",44
+"2010-2011","Keister Elementary","02","",92
+"2010-2011","Keister Elementary","03","F",38
+"2010-2011","Keister Elementary","03","M",42
+"2010-2011","Keister Elementary","03","",80
+"2010-2011","Keister Elementary","04","F",39
+"2010-2011","Keister Elementary","04","M",38
+"2010-2011","Keister Elementary","04","",77
+"2010-2011","Keister Elementary","KG","F",55
+"2010-2011","Keister Elementary","KG","M",42
+"2010-2011","Keister Elementary","KG","",97
+"2010-2011","Keister Elementary","PK","F",18
+"2010-2011","Keister Elementary","PK","M",19
+"2010-2011","Keister Elementary","PK","",37
+"2010-2011","Keister Elementary","","F",247
+"2010-2011","Keister Elementary","","M",244
+"2010-2011","Keister Elementary","","",491
+"2010-2011","Skyline Middle","05","F",65
+"2010-2011","Skyline Middle","05","M",80
+"2010-2011","Skyline Middle","05","",145
+"2010-2011","Skyline Middle","06","F",61
+"2010-2011","Skyline Middle","06","M",73
+"2010-2011","Skyline Middle","06","",134
+"2010-2011","Skyline Middle","07","F",70
+"2010-2011","Skyline Middle","07","M",67
+"2010-2011","Skyline Middle","07","",137
+"2010-2011","Skyline Middle","08","F",74
+"2010-2011","Skyline Middle","08","M",52
+"2010-2011","Skyline Middle","08","",126
+"2010-2011","Skyline Middle","","F",270
+"2010-2011","Skyline Middle","","M",272
+"2010-2011","Skyline Middle","","",542
+"2010-2011","Smithland Elementary","01","F",31
+"2010-2011","Smithland Elementary","01","M",43
+"2010-2011","Smithland Elementary","01","",74
+"2010-2011","Smithland Elementary","02","F",29
+"2010-2011","Smithland Elementary","02","M",47
+"2010-2011","Smithland Elementary","02","",76
+"2010-2011","Smithland Elementary","03","F",40
+"2010-2011","Smithland Elementary","03","M",44
+"2010-2011","Smithland Elementary","03","",84
+"2010-2011","Smithland Elementary","04","F",42
+"2010-2011","Smithland Elementary","04","M",36
+"2010-2011","Smithland Elementary","04","",78
+"2010-2011","Smithland Elementary","KG","F",46
+"2010-2011","Smithland Elementary","KG","M",53
+"2010-2011","Smithland Elementary","KG","",99
+"2010-2011","Smithland Elementary","PK","F",19
+"2010-2011","Smithland Elementary","PK","M",18
+"2010-2011","Smithland Elementary","PK","",37
+"2010-2011","Smithland Elementary","","F",207
+"2010-2011","Smithland Elementary","","M",241
+"2010-2011","Smithland Elementary","","",448
+"2010-2011","Spotswood Elementary","01","F",35
+"2010-2011","Spotswood Elementary","01","M",40
+"2010-2011","Spotswood Elementary","01","",75
+"2010-2011","Spotswood Elementary","02","F",37
+"2010-2011","Spotswood Elementary","02","M",38
+"2010-2011","Spotswood Elementary","02","",75
+"2010-2011","Spotswood Elementary","03","F",42
+"2010-2011","Spotswood Elementary","03","M",41
+"2010-2011","Spotswood Elementary","03","",83
+"2010-2011","Spotswood Elementary","04","F",28
+"2010-2011","Spotswood Elementary","04","M",41
+"2010-2011","Spotswood Elementary","04","",69
+"2010-2011","Spotswood Elementary","KG","F",38
+"2010-2011","Spotswood Elementary","KG","M",45
+"2010-2011","Spotswood Elementary","KG","",83
+"2010-2011","Spotswood Elementary","PK","F",23
+"2010-2011","Spotswood Elementary","PK","M",30
+"2010-2011","Spotswood Elementary","PK","",53
+"2010-2011","Spotswood Elementary","","F",203
+"2010-2011","Spotswood Elementary","","M",235
+"2010-2011","Spotswood Elementary","","",438
+"2010-2011","Stone Spring Elementary","01","F",36
+"2010-2011","Stone Spring Elementary","01","M",45
+"2010-2011","Stone Spring Elementary","01","",81
+"2010-2011","Stone Spring Elementary","02","F",31
+"2010-2011","Stone Spring Elementary","02","M",34
+"2010-2011","Stone Spring Elementary","02","",65
+"2010-2011","Stone Spring Elementary","03","F",25
+"2010-2011","Stone Spring Elementary","03","M",35
+"2010-2011","Stone Spring Elementary","03","",60
+"2010-2011","Stone Spring Elementary","04","F",28
+"2010-2011","Stone Spring Elementary","04","M",33
+"2010-2011","Stone Spring Elementary","04","",61
+"2010-2011","Stone Spring Elementary","KG","F",34
+"2010-2011","Stone Spring Elementary","KG","M",31
+"2010-2011","Stone Spring Elementary","KG","",65
+"2010-2011","Stone Spring Elementary","PK","F",19
+"2010-2011","Stone Spring Elementary","PK","M",20
+"2010-2011","Stone Spring Elementary","PK","",39
+"2010-2011","Stone Spring Elementary","","F",173
+"2010-2011","Stone Spring Elementary","","M",198
+"2010-2011","Stone Spring Elementary","","",371
+"2010-2011","Thomas Harrison Middle","05","F",114
+"2010-2011","Thomas Harrison Middle","05","M",97
+"2010-2011","Thomas Harrison Middle","05","",211
+"2010-2011","Thomas Harrison Middle","06","F",88
+"2010-2011","Thomas Harrison Middle","06","M",121
+"2010-2011","Thomas Harrison Middle","06","",209
+"2010-2011","Thomas Harrison Middle","07","F",80
+"2010-2011","Thomas Harrison Middle","07","M",93
+"2010-2011","Thomas Harrison Middle","07","",173
+"2010-2011","Thomas Harrison Middle","08","F",100
+"2010-2011","Thomas Harrison Middle","08","M",78
+"2010-2011","Thomas Harrison Middle","08","",178
+"2010-2011","Thomas Harrison Middle","","F",382
+"2010-2011","Thomas Harrison Middle","","M",389
+"2010-2011","Thomas Harrison Middle","","",771
+"2010-2011","Waterman Elementary","01","F",44
+"2010-2011","Waterman Elementary","01","M",48
+"2010-2011","Waterman Elementary","01","",92
+"2010-2011","Waterman Elementary","02","F",35
+"2010-2011","Waterman Elementary","02","M",25
+"2010-2011","Waterman Elementary","02","",60
+"2010-2011","Waterman Elementary","03","F",41
+"2010-2011","Waterman Elementary","03","M",26
+"2010-2011","Waterman Elementary","03","",67
+"2010-2011","Waterman Elementary","04","F",45
+"2010-2011","Waterman Elementary","04","M",43
+"2010-2011","Waterman Elementary","04","",88
+"2010-2011","Waterman Elementary","KG","F",45
+"2010-2011","Waterman Elementary","KG","M",46
+"2010-2011","Waterman Elementary","KG","",91
+"2010-2011","Waterman Elementary","PK","F",13
+"2010-2011","Waterman Elementary","PK","M",22
+"2010-2011","Waterman Elementary","PK","",35
+"2010-2011","Waterman Elementary","","F",223
+"2010-2011","Waterman Elementary","","M",210
+"2010-2011","Waterman Elementary","","",433
+"2010-2011","","01","F",195
+"2010-2011","","01","M",235
+"2010-2011","","01","",430
+"2010-2011","","02","F",180
+"2010-2011","","02","M",188
+"2010-2011","","02","",368
+"2010-2011","","03","F",186
+"2010-2011","","03","M",188
+"2010-2011","","03","",374
+"2010-2011","","04","F",182
+"2010-2011","","04","M",191
+"2010-2011","","04","",373
+"2010-2011","","05","F",179
+"2010-2011","","05","M",177
+"2010-2011","","05","",356
+"2010-2011","","06","F",149
+"2010-2011","","06","M",194
+"2010-2011","","06","",343
+"2010-2011","","07","F",150
+"2010-2011","","07","M",160
+"2010-2011","","07","",310
+"2010-2011","","08","F",174
+"2010-2011","","08","M",130
+"2010-2011","","08","",304
+"2010-2011","","09","F",179
+"2010-2011","","09","M",209
+"2010-2011","","09","",388
+"2010-2011","","10","F",175
+"2010-2011","","10","M",176
+"2010-2011","","10","",351
+"2010-2011","","11","F",136
+"2010-2011","","11","M",160
+"2010-2011","","11","",296
+"2010-2011","","12","F",142
+"2010-2011","","12","M",151
+"2010-2011","","12","",293
+"2010-2011","","KG","F",218
+"2010-2011","","KG","M",217
+"2010-2011","","KG","",435
+"2010-2011","","PK","F",92
+"2010-2011","","PK","M",109
+"2010-2011","","PK","",201
+"2010-2011","","","F",2337
+"2010-2011","","","M",2485
+"2010-2011","","","",4822
+"2011-2012","Harrisonburg High","09","F",194
+"2011-2012","Harrisonburg High","09","M",153
+"2011-2012","Harrisonburg High","09","",347
+"2011-2012","Harrisonburg High","10","F",172
+"2011-2012","Harrisonburg High","10","M",186
+"2011-2012","Harrisonburg High","10","",358
+"2011-2012","Harrisonburg High","11","F",157
+"2011-2012","Harrisonburg High","11","M",164
+"2011-2012","Harrisonburg High","11","",321
+"2011-2012","Harrisonburg High","12","F",137
+"2011-2012","Harrisonburg High","12","M",162
+"2011-2012","Harrisonburg High","12","",299
+"2011-2012","Harrisonburg High","","F",660
+"2011-2012","Harrisonburg High","","M",665
+"2011-2012","Harrisonburg High","","",1325
+"2011-2012","Keister Elementary","01","F",53
+"2011-2012","Keister Elementary","01","M",48
+"2011-2012","Keister Elementary","01","",101
+"2011-2012","Keister Elementary","02","F",51
+"2011-2012","Keister Elementary","02","M",53
+"2011-2012","Keister Elementary","02","",104
+"2011-2012","Keister Elementary","03","F",46
+"2011-2012","Keister Elementary","03","M",43
+"2011-2012","Keister Elementary","03","",89
+"2011-2012","Keister Elementary","04","F",38
+"2011-2012","Keister Elementary","04","M",41
+"2011-2012","Keister Elementary","04","",79
+"2011-2012","Keister Elementary","KG","F",48
+"2011-2012","Keister Elementary","KG","M",46
+"2011-2012","Keister Elementary","KG","",94
+"2011-2012","Keister Elementary","PK","F",25
+"2011-2012","Keister Elementary","PK","M",37
+"2011-2012","Keister Elementary","PK","",62
+"2011-2012","Keister Elementary","","F",261
+"2011-2012","Keister Elementary","","M",268
+"2011-2012","Keister Elementary","","",529
+"2011-2012","Skyline Middle","05","F",69
+"2011-2012","Skyline Middle","05","M",68
+"2011-2012","Skyline Middle","05","",137
+"2011-2012","Skyline Middle","06","F",70
+"2011-2012","Skyline Middle","06","M",78
+"2011-2012","Skyline Middle","06","",148
+"2011-2012","Skyline Middle","07","F",67
+"2011-2012","Skyline Middle","07","M",69
+"2011-2012","Skyline Middle","07","",136
+"2011-2012","Skyline Middle","08","F",67
+"2011-2012","Skyline Middle","08","M",60
+"2011-2012","Skyline Middle","08","",127
+"2011-2012","Skyline Middle","","F",273
+"2011-2012","Skyline Middle","","M",275
+"2011-2012","Skyline Middle","","",548
+"2011-2012","Smithland Elementary","01","F",40
+"2011-2012","Smithland Elementary","01","M",49
+"2011-2012","Smithland Elementary","01","",89
+"2011-2012","Smithland Elementary","02","F",23
+"2011-2012","Smithland Elementary","02","M",41
+"2011-2012","Smithland Elementary","02","",64
+"2011-2012","Smithland Elementary","03","F",41
+"2011-2012","Smithland Elementary","03","M",45
+"2011-2012","Smithland Elementary","03","",86
+"2011-2012","Smithland Elementary","04","F",37
+"2011-2012","Smithland Elementary","04","M",36
+"2011-2012","Smithland Elementary","04","",73
+"2011-2012","Smithland Elementary","KG","F",59
+"2011-2012","Smithland Elementary","KG","M",48
+"2011-2012","Smithland Elementary","KG","",107
+"2011-2012","Smithland Elementary","PK","F",25
+"2011-2012","Smithland Elementary","PK","M",40
+"2011-2012","Smithland Elementary","PK","",65
+"2011-2012","Smithland Elementary","","F",225
+"2011-2012","Smithland Elementary","","M",259
+"2011-2012","Smithland Elementary","","",484
+"2011-2012","Spotswood Elementary","01","F",39
+"2011-2012","Spotswood Elementary","01","M",46
+"2011-2012","Spotswood Elementary","01","",85
+"2011-2012","Spotswood Elementary","02","F",41
+"2011-2012","Spotswood Elementary","02","M",41
+"2011-2012","Spotswood Elementary","02","",82
+"2011-2012","Spotswood Elementary","03","F",42
+"2011-2012","Spotswood Elementary","03","M",36
+"2011-2012","Spotswood Elementary","03","",78
+"2011-2012","Spotswood Elementary","04","F",42
+"2011-2012","Spotswood Elementary","04","M",43
+"2011-2012","Spotswood Elementary","04","",85
+"2011-2012","Spotswood Elementary","KG","F",49
+"2011-2012","Spotswood Elementary","KG","M",50
+"2011-2012","Spotswood Elementary","KG","",99
+"2011-2012","Spotswood Elementary","PK","F",25
+"2011-2012","Spotswood Elementary","PK","M",35
+"2011-2012","Spotswood Elementary","PK","",60
+"2011-2012","Spotswood Elementary","","F",238
+"2011-2012","Spotswood Elementary","","M",251
+"2011-2012","Spotswood Elementary","","",489
+"2011-2012","Stone Spring Elementary","01","F",36
+"2011-2012","Stone Spring Elementary","01","M",37
+"2011-2012","Stone Spring Elementary","01","",73
+"2011-2012","Stone Spring Elementary","02","F",37
+"2011-2012","Stone Spring Elementary","02","M",44
+"2011-2012","Stone Spring Elementary","02","",81
+"2011-2012","Stone Spring Elementary","03","F",29
+"2011-2012","Stone Spring Elementary","03","M",34
+"2011-2012","Stone Spring Elementary","03","",63
+"2011-2012","Stone Spring Elementary","04","F",29
+"2011-2012","Stone Spring Elementary","04","M",35
+"2011-2012","Stone Spring Elementary","04","",64
+"2011-2012","Stone Spring Elementary","KG","F",36
+"2011-2012","Stone Spring Elementary","KG","M",29
+"2011-2012","Stone Spring Elementary","KG","",65
+"2011-2012","Stone Spring Elementary","PK","F",22
+"2011-2012","Stone Spring Elementary","PK","M",31
+"2011-2012","Stone Spring Elementary","PK","",53
+"2011-2012","Stone Spring Elementary","","F",189
+"2011-2012","Stone Spring Elementary","","M",210
+"2011-2012","Stone Spring Elementary","","",399
+"2011-2012","Thomas Harrison Middle","05","F",101
+"2011-2012","Thomas Harrison Middle","05","M",124
+"2011-2012","Thomas Harrison Middle","05","",225
+"2011-2012","Thomas Harrison Middle","06","F",116
+"2011-2012","Thomas Harrison Middle","06","M",97
+"2011-2012","Thomas Harrison Middle","06","",213
+"2011-2012","Thomas Harrison Middle","07","F",95
+"2011-2012","Thomas Harrison Middle","07","M",127
+"2011-2012","Thomas Harrison Middle","07","",222
+"2011-2012","Thomas Harrison Middle","08","F",87
+"2011-2012","Thomas Harrison Middle","08","M",97
+"2011-2012","Thomas Harrison Middle","08","",184
+"2011-2012","Thomas Harrison Middle","","F",399
+"2011-2012","Thomas Harrison Middle","","M",445
+"2011-2012","Thomas Harrison Middle","","",844
+"2011-2012","Waterman Elementary","01","F",50
+"2011-2012","Waterman Elementary","01","M",44
+"2011-2012","Waterman Elementary","01","",94
+"2011-2012","Waterman Elementary","02","F",45
+"2011-2012","Waterman Elementary","02","M",51
+"2011-2012","Waterman Elementary","02","",96
+"2011-2012","Waterman Elementary","03","F",33
+"2011-2012","Waterman Elementary","03","M",20
+"2011-2012","Waterman Elementary","03","",53
+"2011-2012","Waterman Elementary","04","F",46
+"2011-2012","Waterman Elementary","04","M",37
+"2011-2012","Waterman Elementary","04","",83
+"2011-2012","Waterman Elementary","KG","F",40
+"2011-2012","Waterman Elementary","KG","M",52
+"2011-2012","Waterman Elementary","KG","",92
+"2011-2012","Waterman Elementary","PK","F",29
+"2011-2012","Waterman Elementary","PK","M",32
+"2011-2012","Waterman Elementary","PK","",61
+"2011-2012","Waterman Elementary","","F",243
+"2011-2012","Waterman Elementary","","M",236
+"2011-2012","Waterman Elementary","","",479
+"2011-2012","","01","F",218
+"2011-2012","","01","M",224
+"2011-2012","","01","",442
+"2011-2012","","02","F",197
+"2011-2012","","02","M",230
+"2011-2012","","02","",427
+"2011-2012","","03","F",191
+"2011-2012","","03","M",178
+"2011-2012","","03","",369
+"2011-2012","","04","F",192
+"2011-2012","","04","M",192
+"2011-2012","","04","",384
+"2011-2012","","05","F",170
+"2011-2012","","05","M",192
+"2011-2012","","05","",362
+"2011-2012","","06","F",186
+"2011-2012","","06","M",175
+"2011-2012","","06","",361
+"2011-2012","","07","F",162
+"2011-2012","","07","M",196
+"2011-2012","","07","",358
+"2011-2012","","08","F",154
+"2011-2012","","08","M",157
+"2011-2012","","08","",311
+"2011-2012","","09","F",194
+"2011-2012","","09","M",153
+"2011-2012","","09","",347
+"2011-2012","","10","F",172
+"2011-2012","","10","M",186
+"2011-2012","","10","",358
+"2011-2012","","11","F",157
+"2011-2012","","11","M",164
+"2011-2012","","11","",321
+"2011-2012","","12","F",137
+"2011-2012","","12","M",162
+"2011-2012","","12","",299
+"2011-2012","","KG","F",232
+"2011-2012","","KG","M",225
+"2011-2012","","KG","",457
+"2011-2012","","PK","F",126
+"2011-2012","","PK","M",175
+"2011-2012","","PK","",301
+"2011-2012","","","F",2488
+"2011-2012","","","M",2609
+"2011-2012","","","",5097
+"2012-2013","Harrisonburg High","09","F",165
+"2012-2013","Harrisonburg High","09","M",188
+"2012-2013","Harrisonburg High","09","",353
+"2012-2013","Harrisonburg High","10","F",184
+"2012-2013","Harrisonburg High","10","M",145
+"2012-2013","Harrisonburg High","10","",329
+"2012-2013","Harrisonburg High","11","F",170
+"2012-2013","Harrisonburg High","11","M",188
+"2012-2013","Harrisonburg High","11","",358
+"2012-2013","Harrisonburg High","12","F",157
+"2012-2013","Harrisonburg High","12","M",181
+"2012-2013","Harrisonburg High","12","",338
+"2012-2013","Harrisonburg High","","F",676
+"2012-2013","Harrisonburg High","","M",702
+"2012-2013","Harrisonburg High","","",1378
+"2012-2013","Keister Elementary","01","F",52
+"2012-2013","Keister Elementary","01","M",35
+"2012-2013","Keister Elementary","01","",87
+"2012-2013","Keister Elementary","02","F",47
+"2012-2013","Keister Elementary","02","M",48
+"2012-2013","Keister Elementary","02","",95
+"2012-2013","Keister Elementary","03","F",44
+"2012-2013","Keister Elementary","03","M",50
+"2012-2013","Keister Elementary","03","",94
+"2012-2013","Keister Elementary","04","F",48
+"2012-2013","Keister Elementary","04","M",40
+"2012-2013","Keister Elementary","04","",88
+"2012-2013","Keister Elementary","KG","F",49
+"2012-2013","Keister Elementary","KG","M",55
+"2012-2013","Keister Elementary","KG","",104
+"2012-2013","Keister Elementary","PK","F",11
+"2012-2013","Keister Elementary","PK","M",22
+"2012-2013","Keister Elementary","PK","",33
+"2012-2013","Keister Elementary","","F",251
+"2012-2013","Keister Elementary","","M",250
+"2012-2013","Keister Elementary","","",501
+"2012-2013","Skyline Middle","05","F",75
+"2012-2013","Skyline Middle","05","M",81
+"2012-2013","Skyline Middle","05","",156
+"2012-2013","Skyline Middle","06","F",64
+"2012-2013","Skyline Middle","06","M",75
+"2012-2013","Skyline Middle","06","",139
+"2012-2013","Skyline Middle","07","F",79
+"2012-2013","Skyline Middle","07","M",85
+"2012-2013","Skyline Middle","07","",164
+"2012-2013","Skyline Middle","08","F",63
+"2012-2013","Skyline Middle","08","M",72
+"2012-2013","Skyline Middle","08","",135
+"2012-2013","Skyline Middle","","F",281
+"2012-2013","Skyline Middle","","M",313
+"2012-2013","Skyline Middle","","",594
+"2012-2013","Smithland Elementary","01","F",51
+"2012-2013","Smithland Elementary","01","M",53
+"2012-2013","Smithland Elementary","01","",104
+"2012-2013","Smithland Elementary","02","F",37
+"2012-2013","Smithland Elementary","02","M",53
+"2012-2013","Smithland Elementary","02","",90
+"2012-2013","Smithland Elementary","03","F",28
+"2012-2013","Smithland Elementary","03","M",50
+"2012-2013","Smithland Elementary","03","",78
+"2012-2013","Smithland Elementary","04","F",34
+"2012-2013","Smithland Elementary","04","M",46
+"2012-2013","Smithland Elementary","04","",80
+"2012-2013","Smithland Elementary","KG","F",52
+"2012-2013","Smithland Elementary","KG","M",67
+"2012-2013","Smithland Elementary","KG","",119
+"2012-2013","Smithland Elementary","PK","F",17
+"2012-2013","Smithland Elementary","PK","M",27
+"2012-2013","Smithland Elementary","PK","",44
+"2012-2013","Smithland Elementary","","F",219
+"2012-2013","Smithland Elementary","","M",296
+"2012-2013","Smithland Elementary","","",515
+"2012-2013","Spotswood Elementary","01","F",45
+"2012-2013","Spotswood Elementary","01","M",54
+"2012-2013","Spotswood Elementary","01","",99
+"2012-2013","Spotswood Elementary","02","F",38
+"2012-2013","Spotswood Elementary","02","M",44
+"2012-2013","Spotswood Elementary","02","",82
+"2012-2013","Spotswood Elementary","03","F",42
+"2012-2013","Spotswood Elementary","03","M",39
+"2012-2013","Spotswood Elementary","03","",81
+"2012-2013","Spotswood Elementary","04","F",39
+"2012-2013","Spotswood Elementary","04","M",38
+"2012-2013","Spotswood Elementary","04","",77
+"2012-2013","Spotswood Elementary","KG","F",40
+"2012-2013","Spotswood Elementary","KG","M",49
+"2012-2013","Spotswood Elementary","KG","",89
+"2012-2013","Spotswood Elementary","PK","F",8
+"2012-2013","Spotswood Elementary","PK","M",13
+"2012-2013","Spotswood Elementary","PK","",21
+"2012-2013","Spotswood Elementary","","F",212
+"2012-2013","Spotswood Elementary","","M",237
+"2012-2013","Spotswood Elementary","","",449
+"2012-2013","Stone Spring Elementary","01","F",32
+"2012-2013","Stone Spring Elementary","01","M",32
+"2012-2013","Stone Spring Elementary","01","",64
+"2012-2013","Stone Spring Elementary","02","F",33
+"2012-2013","Stone Spring Elementary","02","M",36
+"2012-2013","Stone Spring Elementary","02","",69
+"2012-2013","Stone Spring Elementary","03","F",34
+"2012-2013","Stone Spring Elementary","03","M",44
+"2012-2013","Stone Spring Elementary","03","",78
+"2012-2013","Stone Spring Elementary","04","F",30
+"2012-2013","Stone Spring Elementary","04","M",33
+"2012-2013","Stone Spring Elementary","04","",63
+"2012-2013","Stone Spring Elementary","KG","F",29
+"2012-2013","Stone Spring Elementary","KG","M",25
+"2012-2013","Stone Spring Elementary","KG","",54
+"2012-2013","Stone Spring Elementary","PK","F",33
+"2012-2013","Stone Spring Elementary","PK","M",58
+"2012-2013","Stone Spring Elementary","PK","",91
+"2012-2013","Stone Spring Elementary","","F",191
+"2012-2013","Stone Spring Elementary","","M",228
+"2012-2013","Stone Spring Elementary","","",419
+"2012-2013","Thomas Harrison Middle","05","F",121
+"2012-2013","Thomas Harrison Middle","05","M",127
+"2012-2013","Thomas Harrison Middle","05","",248
+"2012-2013","Thomas Harrison Middle","06","F",100
+"2012-2013","Thomas Harrison Middle","06","M",124
+"2012-2013","Thomas Harrison Middle","06","",224
+"2012-2013","Thomas Harrison Middle","07","F",117
+"2012-2013","Thomas Harrison Middle","07","M",98
+"2012-2013","Thomas Harrison Middle","07","",215
+"2012-2013","Thomas Harrison Middle","08","F",90
+"2012-2013","Thomas Harrison Middle","08","M",129
+"2012-2013","Thomas Harrison Middle","08","",219
+"2012-2013","Thomas Harrison Middle","","F",428
+"2012-2013","Thomas Harrison Middle","","M",478
+"2012-2013","Thomas Harrison Middle","","",906
+"2012-2013","Waterman Elementary","01","F",45
+"2012-2013","Waterman Elementary","01","M",50
+"2012-2013","Waterman Elementary","01","",95
+"2012-2013","Waterman Elementary","02","F",51
+"2012-2013","Waterman Elementary","02","M",50
+"2012-2013","Waterman Elementary","02","",101
+"2012-2013","Waterman Elementary","03","F",45
+"2012-2013","Waterman Elementary","03","M",43
+"2012-2013","Waterman Elementary","03","",88
+"2012-2013","Waterman Elementary","04","F",38
+"2012-2013","Waterman Elementary","04","M",18
+"2012-2013","Waterman Elementary","04","",56
+"2012-2013","Waterman Elementary","KG","F",50
+"2012-2013","Waterman Elementary","KG","M",52
+"2012-2013","Waterman Elementary","KG","",102
+"2012-2013","Waterman Elementary","PK","F",35
+"2012-2013","Waterman Elementary","PK","M",35
+"2012-2013","Waterman Elementary","PK","",70
+"2012-2013","Waterman Elementary","","F",264
+"2012-2013","Waterman Elementary","","M",248
+"2012-2013","Waterman Elementary","","",512
+"2012-2013","","01","F",225
+"2012-2013","","01","M",224
+"2012-2013","","01","",449
+"2012-2013","","02","F",206
+"2012-2013","","02","M",231
+"2012-2013","","02","",437
+"2012-2013","","03","F",193
+"2012-2013","","03","M",226
+"2012-2013","","03","",419
+"2012-2013","","04","F",189
+"2012-2013","","04","M",175
+"2012-2013","","04","",364
+"2012-2013","","05","F",196
+"2012-2013","","05","M",208
+"2012-2013","","05","",404
+"2012-2013","","06","F",164
+"2012-2013","","06","M",199
+"2012-2013","","06","",363
+"2012-2013","","07","F",196
+"2012-2013","","07","M",183
+"2012-2013","","07","",379
+"2012-2013","","08","F",153
+"2012-2013","","08","M",201
+"2012-2013","","08","",354
+"2012-2013","","09","F",165
+"2012-2013","","09","M",188
+"2012-2013","","09","",353
+"2012-2013","","10","F",184
+"2012-2013","","10","M",145
+"2012-2013","","10","",329
+"2012-2013","","11","F",170
+"2012-2013","","11","M",188
+"2012-2013","","11","",358
+"2012-2013","","12","F",157
+"2012-2013","","12","M",181
+"2012-2013","","12","",338
+"2012-2013","","KG","F",220
+"2012-2013","","KG","M",248
+"2012-2013","","KG","",468
+"2012-2013","","PK","F",104
+"2012-2013","","PK","M",155
+"2012-2013","","PK","",259
+"2012-2013","","","F",2522
+"2012-2013","","","M",2752
+"2012-2013","","","",5274

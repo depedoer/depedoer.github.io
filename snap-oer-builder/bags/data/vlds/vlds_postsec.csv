@@ -1,0 +1,49 @@
+"year","school","gender","cohort_size","inst_type","enroll_cnt"
+"2007-2008","Harrisonburg High","F",139,"4-Year Public",41
+"2007-2008","Harrisonburg High","F",139,"2-Year College",24
+"2007-2008","Harrisonburg High","F",139,"4-Year Private",16
+"2007-2008","Harrisonburg High","F",139,"",81
+"2007-2008","Harrisonburg High","M",124,"4-Year Public",28
+"2007-2008","Harrisonburg High","M",124,"2-Year College",26
+"2007-2008","Harrisonburg High","M",124,"4-Year Private",12
+"2007-2008","Harrisonburg High","M",124,"",66
+"2007-2008","Harrisonburg High","",263,"4-Year Public",69
+"2007-2008","Harrisonburg High","",263,"2-Year College",50
+"2007-2008","Harrisonburg High","",263,"4-Year Private",28
+"2007-2008","Harrisonburg High","",263,"",147
+"2008-2009","Harrisonburg High","F",135,"4-Year Public",38
+"2008-2009","Harrisonburg High","F",135,"2-Year College",35
+"2008-2009","Harrisonburg High","F",135,"4-Year Private",14
+"2008-2009","Harrisonburg High","F",135,"",87
+"2008-2009","Harrisonburg High","M",135,"4-Year Public",29
+"2008-2009","Harrisonburg High","M",135,"2-Year College",34
+"2008-2009","Harrisonburg High","M",135,"4-Year Private",15
+"2008-2009","Harrisonburg High","M",135,"",78
+"2008-2009","Harrisonburg High","",270,"4-Year Public",67
+"2008-2009","Harrisonburg High","",270,"2-Year College",69
+"2008-2009","Harrisonburg High","",270,"4-Year Private",29
+"2008-2009","Harrisonburg High","",270,"",165
+"2009-2010","Harrisonburg High","F",146,"4-Year Public",25
+"2009-2010","Harrisonburg High","F",146,"2-Year College",34
+"2009-2010","Harrisonburg High","F",146,"4-Year Private",19
+"2009-2010","Harrisonburg High","F",146,"",78
+"2009-2010","Harrisonburg High","M",147,"4-Year Public",33
+"2009-2010","Harrisonburg High","M",147,"2-Year College",43
+"2009-2010","Harrisonburg High","M",147,"4-Year Private",13
+"2009-2010","Harrisonburg High","M",147,"",89
+"2009-2010","Harrisonburg High","",293,"4-Year Public",58
+"2009-2010","Harrisonburg High","",293,"2-Year College",77
+"2009-2010","Harrisonburg High","",293,"4-Year Private",32
+"2009-2010","Harrisonburg High","",293,"",167
+"2010-2011","Harrisonburg High","F",132,"4-Year Public",32
+"2010-2011","Harrisonburg High","F",132,"2-Year College",33
+"2010-2011","Harrisonburg High","F",132,"4-Year Private",12
+"2010-2011","Harrisonburg High","F",132,"",77
+"2010-2011","Harrisonburg High","M",122,"4-Year Public",31
+"2010-2011","Harrisonburg High","M",122,"2-Year College",30
+"2010-2011","Harrisonburg High","M",122,"4-Year Private",10
+"2010-2011","Harrisonburg High","M",122,"",71
+"2010-2011","Harrisonburg High","",254,"4-Year Public",63
+"2010-2011","Harrisonburg High","",254,"2-Year College",63
+"2010-2011","Harrisonburg High","",254,"4-Year Private",22
+"2010-2011","Harrisonburg High","",254,"",148

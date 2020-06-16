@@ -1,0 +1,45 @@
+body {
+    overflow:hidden;
+    background: #10162C;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: small;
+}
+
+#wrapper 
+{
+	position:relative;
+}
+
+#canvas-wrap 
+{ 
+    position: relative;
+    float: left;
+    display: block;
+}
+
+#algebra
+{
+   position: relative; 
+   background: #10162C; 
+   float: left; 
+   overflow: hidden;
+}
+
+#algebra tr
+{
+   font-size: 20px;
+}
+
+#algebra algebraTable
+{  
+   position: relative;
+   top: 40%;
+}
+
+#result 
+{
+	position: relative; 
+   background: #10162C; 
+   float: left; 
+   overflow: scroll;
+} 

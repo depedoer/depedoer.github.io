@@ -1,0 +1,13 @@
+My method for creating new datasets 
+---
+NOTE: Using a text editor like Notepad++ is an alternate simpler option by using Find and Replace 
+in order to format the dataset in [[Number,Letter],[1,A],[2,B],[3,C],...[26,Z]]; format
+---
+1. Save dataset as CSV
+2. Start Python IDLE GUI
+3. Import OS and CSV with "import csv" and "import os"
+4. Use chdir to set Python to the folder with your dataset "chdir('C:/Downloads/snap/bags/data')"
+5. Use the statement "print(list(csv.reader(open(r'FILENAME' ))))" with filename as your csv
+7. Copy and paste results into the end of bags_datasets.js
+8. In bags_objects, add a new block in SpriteMorph.prototype.initBlocks() with a similar template as other blocks on Line 21
+9. In bags_objects, add a statement 'blocks(push('NEW_BLOCK'))' where similar calls are made on Line 352

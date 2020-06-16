@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<script type="text/javascript">
+	var height = window.innerHeight;
+	var width = window.innerWidth;
+	var canvasWidth = width * 0.6;
+	var resultWidth = width * 0.4;
+  //canvas.world.style.height/width
+  
+  function onResize(){
+    canvas = document.getElementById("world");
+    div = document.getElementById("result");
+    
+    // convert div.style.width string into an integer
+    var divWidth = parseInt(div.style.width.slice(0, div.style.width.indexOf('.') - 1));
+    if ( (canvas.width + divWidth < window.innerWidth) || (canvas.width + divWidth > window.innerWidth) )
+    {    
+        canvas.width = Math.floor(window.innerWidth * 0.6);
+        div.style.width = Math.floor(window.innerWidth * 0.4).toFixed(4) + 'px';
+        
+        world.children[0].children[2].children[0].mouseClickLeft();
+        //world.init(canvas, false);
+        //ideMorph = new IDE_Morph().openIn(world);
+        //ideMorph.rebuildPanes();
+        //world.bounds = new Rectangle(0, 0, canvas.width, canvas.height);
+        //world.drawNew();
+    }
+
+    if ( (canvas.height < window.innerHeight) || (canvas.height > window.innerHeight) )
+    {
+        canvas.height = window.innerHeight;
+        div.style.height = window.innerHeight + 'px';
+        
+        world.children[0].children[2].children[0].mouseClickLeft();
+        //world.init(canvas, false);
+        //ideMorph = new IDE_Morph().openIn(world);
+        //ideMorph.rebuildPanes();
+        //world.bounds = new Rectangle(0, 0, canvas.width, canvas.height);
+        //world.drawNew();
+    }
+  } 
+</script>
+	<head style="margin:0px; padding:0px;">
+		<link rel="stylesheet" type="text/css" href="bags.css">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Bags: Build Your Own Relations. Alpha</title>
+		<script type="text/javascript" src="morphic.js"></script>
+		<script type="text/javascript" src="bags_morphic.js"></script>
+		<script type="text/javascript" src="widgets.js"></script>
+		<script type="text/javascript" src="blocks.js"></script>
+		<script type="text/javascript" src="bags_blocks.js"></script>
+		<script type="text/javascript" src="threads.js"></script>
+		<script type="text/javascript" src="bags_util.js"></script>
+		<script type="text/javascript" src="objects.js"></script>
+		<script type="text/javascript" src="bags_objects.js"></script>		
+		<script type="text/javascript" src="bags_gui.js"></script>
+		<script type="text/javascript" src="paint.js"></script>
+		<script type="text/javascript" src="lists.js"></script>
+		<script type="text/javascript" src="byob.js"></script>
+		<script type="text/javascript" src="xml.js"></script>
+		<script type="text/javascript" src="store.js"></script>
+		<script type="text/javascript" src="locale.js"></script>
+		<script type="text/javascript" src="cloud.js"></script>
+		<script type="text/javascript" src="sha512.js"></script>
+		<script type="text/javascript" src="bags_datasets.js"></script>
+		<script type="text/javascript">
+			var world;
+      var ideMorph;
+			window.onload = function () {
+				world = new WorldMorph(document.getElementById('world'), false);
+				ideMorph = new IDE_Morph().openIn(world);
+				setInterval(loop, 1);
+			};
+			function loop() {
+				world.doOneCycle();
+			}
+		</script>
+	</head>
+    <body style="background-color: #FFFFFF; margin:0px; padding:0px;" onresize="onResize()">
+		<div id="wrapper">
+			<div id="canvas-wrap">
+			<script type="text/javascript">
+				document.write('<canvas id="world" tabindex="1" width="'+ canvasWidth +'" height="'+ height +'"></canvas>');
+			</script>
+			</div>
+    <script type="text/javascript">
+      var algebraDiv = document.createElement("div");
+      algebraDiv.id = "algebra";
+      algebraDiv.style.width = resultWidth + "px";
+      algebraDiv.style.height = 100 + "px";
+      document.body.appendChild(algebraDiv);
+      
+      var resultDiv = document.createElement("div");
+      resultDiv.id = "result";
+      resultDiv.style.width = resultWidth + "px";
+      resultDiv.style.height = (height - 100) + "px";
+      document.body.appendChild(resultDiv);
+  </script>
+    </body>
+</html>
